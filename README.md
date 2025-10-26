@@ -7,4 +7,4 @@
 - **Movie Search (Vite)** → `medium-movie`
 
 ## Hard
-- **To-Do List (Vite + Router)** → `hard-todolist`
+- **To-Do List (Vite)** → `hard-todolist`
